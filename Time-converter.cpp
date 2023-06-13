@@ -1,4 +1,4 @@
-//3. Program to create class to read time in seconds and convert into time in (HH:MM:SS) format.
+//3.Program to create class to read time in seconds and convert into time in (HH:MM:SS) format.
 
 #include <iostream>
 Using namespace std;
