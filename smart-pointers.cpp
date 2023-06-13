@@ -1,6 +1,6 @@
 // A Smart Pointer is a wrapper class over a pointer with an operator like * and -> overloaded. 
 //The objects of the smart pointer class look like normal pointers. But, unlike Normal Pointers it can deallocate and free destroyed object memory.
-// Program to demonstrate the usage of smart pointer and its significance over normal pointer.
+// Program to demonstrate the usage of smart pointer and its significance over normal pointer
 
 // working of Smart Pointer
 #include <iostream>
