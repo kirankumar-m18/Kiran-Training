@@ -1,6 +1,6 @@
 /* 
 Program for banking management system
-Create a class Bank with the following member functions
+Create a class Bank with the following member functions.
 OpenAccount() – It will take input account number, name and opening balance.
 ShowAccount() – It will display the account details such as account number, name and balance.
 Deposit() – It will ask for the amount to be added in available balance, and deposit the amount.
