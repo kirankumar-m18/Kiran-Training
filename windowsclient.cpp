@@ -1,4 +1,4 @@
-// C++ client program to handl with multiple clients in windows environment.
+// C++ client program to handle with client-serever chat in windows environment.
 
 // library for socket to run in windows
 #pragma comment(lib,"ws2_32.lib")
