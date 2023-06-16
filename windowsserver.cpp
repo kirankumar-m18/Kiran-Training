@@ -1,4 +1,4 @@
-// C++ server program to handle client-server chat in windows environment
+// C++ server program to handle client-server chat in windows environment.
 
 // library for socket to run in windows
 #pragma comment(lib,"ws2_32.lib")
