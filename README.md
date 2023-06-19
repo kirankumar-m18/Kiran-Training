@@ -12,4 +12,16 @@ Program to demonstrate set time and date.
 
 ![image](https://github.com/Kirankumar-m-training/Kiran-Training/assets/136049999/6022141b-e9f8-4c07-a068-f40e4b7df7c6)
 
+Program to demonstrate Bank management operations.
+
+![image](https://github.com/Kirankumar-m-training/Kiran-Training/assets/136049999/27268055-1fd8-4832-8a35-392a00d51703)
+
+![image](https://github.com/Kirankumar-m-training/Kiran-Training/assets/136049999/ea717385-03d2-4986-b1a8-6a863221227b)
+
+![image](https://github.com/Kirankumar-m-training/Kiran-Training/assets/136049999/5098b8b6-75dc-401d-a2c4-04e4e596abe5)
+
+![image](https://github.com/Kirankumar-m-training/Kiran-Training/assets/136049999/c0646cc5-2484-41dc-8eaa-43edef5a8e55)
+
+
+
 
