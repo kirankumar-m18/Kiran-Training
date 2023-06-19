@@ -5,6 +5,6 @@ Program to read Date and Time
 
 Program to demonstrate client-server chat communication.
 
-![Alt text].(![client](https://github.com/Kirankumar-m-training/Kiran-Training/assets/136049999/e4bdea8d-f21d-4e73-a2be-25c486b3e96f)
-![Alt text].(![server](https://github.com/Kirankumar-m-training/Kiran-Training/assets/136049999/4d812b5d-4df0-4340-bf38-022688989927)
+(![client](https://github.com/Kirankumar-m-training/Kiran-Training/assets/136049999/e4bdea8d-f21d-4e73-a2be-25c486b3e96f)
+(![server](https://github.com/Kirankumar-m-training/Kiran-Training/assets/136049999/4d812b5d-4df0-4340-bf38-022688989927)
 
