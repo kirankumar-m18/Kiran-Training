@@ -22,6 +22,10 @@ Program to demonstrate Bank management operations.
 
 ![image](https://github.com/Kirankumar-m-training/Kiran-Training/assets/136049999/c0646cc5-2484-41dc-8eaa-43edef5a8e55)
 
+Program to despay input in formatted time.
+
+![image](https://github.com/Kirankumar-m-training/Kiran-Training/assets/136049999/500a170e-e606-4570-8be3-931fba6fc7fa)
+
 
 
 
