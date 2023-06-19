@@ -8,3 +8,7 @@ Program to demonstrate client-server chat communication.
 (![client](https://github.com/Kirankumar-m-training/Kiran-Training/assets/136049999/e4bdea8d-f21d-4e73-a2be-25c486b3e96f)
 (![server](https://github.com/Kirankumar-m-training/Kiran-Training/assets/136049999/4d812b5d-4df0-4340-bf38-022688989927)
 
+Program to demonstrate set time and date.
+![image](https://github.com/Kirankumar-m-training/Kiran-Training/assets/136049999/6022141b-e9f8-4c07-a068-f40e4b7df7c6)
+
+
