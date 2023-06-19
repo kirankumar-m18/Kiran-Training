@@ -27,5 +27,12 @@ Program to despay input in formatted time.
 ![image](https://github.com/Kirankumar-m-training/Kiran-Training/assets/136049999/500a170e-e606-4570-8be3-931fba6fc7fa)
 
 
+Program to display even and odd numbers using threads.
+
+![image](https://github.com/Kirankumar-m-training/Kiran-Training/assets/136049999/5b2036e2-c851-4c26-934f-df7e765ea95d)
+
+
+
+
 
 
