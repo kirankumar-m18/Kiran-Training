@@ -35,12 +35,15 @@ Program to display even and odd numbers using threads.
 Program to demonstrate SIGINT,SIGTERM,SIGSEGV signals working
 
 SIGSEGV:
+
 ![SIGSEGV](https://github.com/Kirankumar-m-training/Kiran-Training/assets/136049999/12e75480-eb05-490d-aba2-fcf769f4dd01)
 
 SIGINT:
+
 ![SIGINT](https://github.com/Kirankumar-m-training/Kiran-Training/assets/136049999/10c3387b-20c9-4c25-9f39-6972494349dc)
 
 SIGTERM:
+
 ![SIGTERM](https://github.com/Kirankumar-m-training/Kiran-Training/assets/136049999/23d1803c-4195-48e9-8011-88d52bc84ff9)
 
 
