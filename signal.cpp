@@ -11,9 +11,9 @@ void sighandler(int signum) {
 }
 
 int main () {
-   signal(SIGINT, sighandler);// signal handler sor SIGIINT
-   signal(SIGTERM, sighandler); // signal handler sor SIGTERM
-   signal(SIGSEGV, sighandler); // signal handler sor SIGSEGV
+   signal(SIGINT, sighandler);// signal handler sor SIGIINT interger value 2
+   signal(SIGTERM, sighandler); // signal handler sor SIGTERM  integer value 15
+   signal(SIGSEGV, sighandler); // signal handler sor SIGSEGV integer value 11
   /* char *ptr;   // To check sigsegv signal
    ptr  = "ok";
   *(ptr+1) = 'b';*/
