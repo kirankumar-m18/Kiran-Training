@@ -13,7 +13,6 @@ std::cout<<"before fork\n";
 p=fork();
 if(p==0)   // child process
 {
-        sleep(5); // execute orphon process
         std::cout<<"I am child having id:"<<getpid()<<std::endl;
         std::cout<<"My parent's id is :"<<getppid()<<std::endl;
 }
