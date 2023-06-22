@@ -56,7 +56,10 @@ SIGTERM:
 ![writeread](https://github.com/Kirankumar-m-training/Kiran-Training/assets/136049999/e3d3c4a8-26dc-4716-94f4-983e88765392)
 
 
+10) Program to demonstrate fork system call.
 
+
+![fork](https://github.com/Kirankumar-m-training/Kiran-Training/assets/136049999/5749ad1d-3df5-480b-bc1e-36fb12d94546)
 
 
 
