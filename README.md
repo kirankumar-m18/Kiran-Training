@@ -62,5 +62,9 @@ SIGTERM:
 ![fork](https://github.com/Kirankumar-m-training/Kiran-Training/assets/136049999/5749ad1d-3df5-480b-bc1e-36fb12d94546)
 
 
+11) program to demonstrate Orphon process using fork system call.
+
+![orphonProcess](https://github.com/Kirankumar-m-training/Kiran-Training/assets/136049999/5efc7042-e737-4109-ada9-a4c0d3e2dfee)
+
 
 
