@@ -10,7 +10,7 @@
 
 int main() {
    int fd[2],n; //fd[1] - writing fd[0] - reading
-   char pbuff[100],cbuff[100];
+   char pbuff[BUFFER_SIZE],cbuff[BUFFER_SIZE];
    pid_t p;
    pipe(fd);
    p = fork();   // calling fork() system call to create parent and child process.
@@ -26,8 +26,8 @@ int main() {
      wait(NULL);
    }else { // child process if p == 0
      std::cout<<"Msg from parent process\n";
-     n = read(fd[0],cbuff,100);
-     write(1,cbuff,n);
+     n = read(fd[0],cbuff,BUFFER_SIZE);
+     write(fd[1],cbuff,n);
      std::cout<<std::endl;
    }
     return 0;
