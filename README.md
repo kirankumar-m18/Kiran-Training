@@ -67,4 +67,8 @@ SIGTERM:
 ![orphonProcess](https://github.com/Kirankumar-m-training/Kiran-Training/assets/136049999/5efc7042-e737-4109-ada9-a4c0d3e2dfee)
 
 
+12) Simple message queue sender and reciever program.
+
+![image](https://github.com/Kirankumar-m-training/Kiran-Training/assets/136049999/87dc00e7-91c7-4b9a-b843-24d377078526)
+
 
