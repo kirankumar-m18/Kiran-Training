@@ -22,14 +22,14 @@
          if (msgid == -1) // If unsuccessful, msgget() returns -1
          {
                  std::cout<<"Error in creating queue\n";
-exit(0);
+                 exit(0);
          }else{
                 std::cout<<"msg queue created\n"; //If successful, msgget() returns a positive integer
          }
 
          while(flag)
          {
-                 std::cout<<"Enter some text:\n";
+                 std::cout<<"Enter some text: ";
                  fgets(buffer,50,stdin);
                  mq.msg_type=1;
                  strcpy(mq.data,buffer);
@@ -41,7 +41,8 @@ exit(0);
                  }
                  if(strncmp(buffer,"BYE",3)==0)
                  {
-          flag=0;
+                       flag=0;
+                       std::cout<<"Communication terminated\n";
                  }
          }
    retrun 0;
