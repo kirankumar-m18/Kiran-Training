@@ -1,4 +1,4 @@
-// C++ program to demonstrate message queue sender and reciever program
+// C++ program to demonstrate message queue sender and reciever program.
  #include <iostream>
  #include<string.h>
  #include<unistd.h>
